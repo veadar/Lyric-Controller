@@ -1,7 +1,7 @@
 {
   "Lyric Controller": {
     "version": "1",
-    "url": "",
-    "comment": "・"
+    "url": "https://github.com/veadar/Lyric-Controller/releases",
+    "comment": "・first release"
   }
 }
